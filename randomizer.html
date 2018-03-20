@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Randomizer</title>
+	<script type="text/javascript" src="build/jquery-3.3.1.min.js "></script>
+</head>
+<body>
+
+
+<script type="text/javascript" src="contents/titles.json"></script>
+<script type="text/javascript">
+	
+var Site = {}	
+
+Site.shuffle = function(){
+	function shuffle(array) {
+	  var currentIndex = array.length, temporaryValue, randomIndex;
+
+	  // While there remain elements to shuffle...
+	  while (0 !== currentIndex) {
+
+	    // Pick a remaining element...
+	    randomIndex = Math.floor(Math.random() * currentIndex);
+	    currentIndex -= 1;
+
+	    // And swap it with the current element.
+	    temporaryValue = array[currentIndex];
+	    array[currentIndex] = array[randomIndex];
+	    array[randomIndex] = temporaryValue;
+	  }
+
+	  return array;
+	}
+
+	// Used like so
+	var arr = contents.titles;
+	arr = shuffle(arr);
+
+
+
+	for (var i = 0; i < contents.titles.length; i++) {
+			
+			$("body").append('{"title": "' + contents.titles[i].title + '" ,"url":"' + contents.titles[i].url + '"}, ')
+
+	}
+
+}
+
+$(document).ready(function(){
+
+	Site.shuffle();
+
+})
+
+
+</script>
+</body>
+</html>

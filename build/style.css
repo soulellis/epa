@@ -1,0 +1,141 @@
+
+
+
+html, body{
+	padding: 0px;
+	margin: 0px;
+	font-size: 15px;
+	font-family: 'terminal_grotesque', TimesNewRoman, "TimesNewRoman", Times, serif;
+	/*font-family:'steps-monoregular';*/
+	background-color: #C9C9C9;
+
+	/* #28000a */
+}
+
+body{
+	min-height: 100vh;
+	padding-bottom: 4rem;
+}
+
+div{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+.outside{
+	display: block;
+	position: relative;
+	width: 94vw;
+	margin: 0 auto;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding-top: 2rem;
+	padding-bottom: 1rem;
+}
+
+.container{
+	display: block;
+	position: relative;
+	width: 94vw;
+	margin: 0 auto;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 2rem;
+	border: solid 3px #660000;
+	font-size: 2.5rem;
+
+}
+
+.main{
+	display: block;
+	position: relative;
+	width: 100%;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 2rem;
+	border: solid 3px #660000;
+	margin: 0 auto;
+	margin-bottom: 2vw;
+	word-wrap: break-word;
+	min-height: 25rem;
+}
+
+
+
+a{
+	color: #9E1F63;
+}
+
+a:visited{
+	color: #FF3399;
+}
+
+h1, h2{
+	font-size: 2.5rem;
+}
+
+h2{
+	color: #660000;
+	font-weight: normal;
+	text-align: left;
+		padding: 0;
+	margin: 0;
+}
+
+h1{
+	display: block;
+	position: relative;
+	width: 100%;
+	margin: 0 auto;
+	color: #660000;
+	font-weight: normal;
+	text-align: center;
+	max-width: 40rem;
+
+}
+
+.main > h1{
+	display: block;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.line1{
+	margin-bottom: 2rem;
+	font-size: 2.5rem !important;
+}
+
+.line1 >h2{
+	vertical-align: top;
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+}
+
+.counting{
+	color: #660000;
+	display: inline-block;
+	font-weight: normal;
+	font-size: 2.5rem;
+	text-align: right;
+	float: right;
+	vertical-align: top;
+}
+
+.dat{
+	word-wrap: break-word;
+	max-width: 50rem;
+}

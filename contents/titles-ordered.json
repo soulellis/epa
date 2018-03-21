@@ -1281,14 +1281,14 @@ var contents = {
 		{"title": "Integrating Science, Biomass and Carbon Policy in the Pacific Northwest", "url": "https://www.epa.gov/sites/production/files/2016-08/documents/marcus_kauffman_biomass_workshop_presentation.pdf"},
 		{"title": "Collaborative Efforts for the Regulation of Biomass Energy in South Carolina", "url": "https://www.epa.gov/sites/production/files/2016-08/documents/henry_porter_biomass_workshop_presentation.pdf"},
 
-		{"title": "Climate Change Science", "url": "http://www.epa.govclimate-change-science"},
-		{"title": "Overview of Climate Change Science", "url": "http://www.epa.govclimate-change-science/overview-climate-change-science"},
-		{"title": "Causes of Climate Change", "url": "http://www.epa.govclimate-change-science/causes-climate-change"},
-		{"title": "Future  Climate Change", "url": "http://www.epa.govclimate-change-science/future-climate-change"},
-		{"title": "Climate Impacts and Risk Analysis", "url": "http://www.epa.govclimate-change-science/climate-change-impacts-and-risk-analysis-cira"},
-		{"title": "Understanding the Link Between Climate Change and Extreme Weather", "url": "http://www.epa.govclimate-change-science/understanding-link-between-climate-change-and-extreme-weather"},
-		{"title": "Contact Us About Climate Change Science", "url": "http://www.epa.govclimate-change-science/forms/contact-us-about-climate-change-science"},
-		{"title": "Methane and Black Carbon Impacts on the Arctic: Communicating the Science", "url": "http://www.epa.govclimate-change-science/methane-and-black-carbon-impacts-arctic-communicating-science"},
+		{"title": "Climate Change Science", "url": "http://www.epa.gov/climate-change-science"},
+		{"title": "Overview of Climate Change Science", "url": "http://www.epa.gov/climate-change-science/overview-climate-change-science"},
+		{"title": "Causes of Climate Change", "url": "http://www.epa.gov/climate-change-science/causes-climate-change"},
+		{"title": "Future  Climate Change", "url": "http://www.epa.gov/climate-change-science/future-climate-change"},
+		{"title": "Climate Impacts and Risk Analysis", "url": "http://www.epa.gov/climate-change-science/climate-change-impacts-and-risk-analysis-cira"},
+		{"title": "Understanding the Link Between Climate Change and Extreme Weather", "url": "http://www.epa.gov/climate-change-science/understanding-link-between-climate-change-and-extreme-weather"},
+		{"title": "Contact Us About Climate Change Science", "url": "http://www.epa.gov/climate-change-science/forms/contact-us-about-climate-change-science"},
+		{"title": "Methane and Black Carbon Impacts on the Arctic: Communicating the Science", "url": "http://www.epa.gov/climate-change-science/methane-and-black-carbon-impacts-arctic-communicating-science"},
 		{"title": "Methane and Black Carbon Impacts on the Arctic: Communicating the Science", "url":	"https://www.epa.gov/sites/production/files/2016-09/documents/arctic-methane-blackcarbon_communicating-the-science.pdf"},
 
 		{"title": "Climate Change Impacts", "url": "http://www.epa.gov/climate-impacts"},
@@ -1978,6 +1978,3 @@ var contents = {
 		{"title": "Clean Energy Options for Addressing High Electric Demand Days", "url": "https://www.epa.gov/statelocalclimate/clean-energy-options-addressing-high-electric-demand-days#"}
 	]
 }
-
-
-

@@ -82,7 +82,7 @@ h1, h2{
 }
 
 h2{
-	color: #FF0000;
+	color: #660000;
 	font-weight: normal;
 	text-align: left;
 		padding: 0;
@@ -94,7 +94,7 @@ h1{
 	position: relative;
 	width: 100%;
 	margin: 0 auto;
-	color: #FF0000;
+	color: #660000;
 	font-weight: normal;
 	text-align: center;
 	max-width: 40rem;

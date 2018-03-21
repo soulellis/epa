@@ -64,6 +64,7 @@ div{
 	margin-bottom: 2vw;
 	word-wrap: break-word;
 	min-height: 25rem;
+	overflow: hidden;
 }
 
 

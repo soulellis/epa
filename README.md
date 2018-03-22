@@ -1,2 +1,2 @@
 # epa
-Bulletin #1: Steve, Harvey and Matt,
+Steve, Harvey and Matt,

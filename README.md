@@ -1,7 +1,7 @@
 # epa
 Steve, Harvey and Matt, (2018)
 
-"Steve, Harvey and Matt," by Paul Soulellis, restores access to 1,964 climate change-related assets that were removed from public access at EPA.gov on April 28, 2017. The assets include web page URLs, documents, presentations, publications, and other files that were taken down by U.S. Environmental Protection Agency Administrator Scott Pruit under the direction of the Trump administration. While all of the web page now redirect to placeholder "sign posts," many of the hidden files are still live, parked on servers. "Steve, Harvey and Matt," re-publishing the URLs at a rate of ten times each day, is a mix of restored access and empty gestures. The 734-page printed book contains EPA emails and spreadsheets that detail the purge.
+"Steve, Harvey and Matt," by Paul Soulellis, restores access to 1,964 climate change-related assets that were removed from EPA.gov on April 28, 2017. The assets include web pages, documents, presentations, publications, and other files that were purged by the U.S. Environmental Protection Agency Administrator under the direction of the Trump administration and EPA Administrator Scott Pruitt. The purge redirects all of the missing web pages to a ["this page is being updated"] (https://www.epa.gov/sites/production/files/signpost/cc.html) message, but many of the document files are still live. With all of the links to these files removed from the web, they remain hidden, until now. "Steve, Harvey and Matt," re-publishes the entire collection of URLs ten times each day — a mix of restored access and empty gestures. The 734-page printed book contains EPA emails and spreadsheets that detail the purge, obtained by Freedom of Information Act requests.
 
 Livestream: http://epa.archive.work
 

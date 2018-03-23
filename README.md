@@ -10,7 +10,7 @@ The April 28 purge redirected hundreds of removed web pages to one of three new 
 
 ## [ZIP Download (emails, spreadsheets, notes)](https://www.dropbox.com/s/0cf90u80drwiolh/Thank%20you%20for%20your%20assistance%20in%20this%20time-sensitive%20matter.zip?dl=0) 
 
-======
+--------------------------
 
 Peer-to-peer distributed livestream [(Beaker Browser)](https://beakerbrowser.com/): 
 

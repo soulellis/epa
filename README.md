@@ -11,8 +11,8 @@ The April 28 purge redirected hundreds of removed web pages to one of three new 
 
 ## Download: (emails, spreadsheets, notes) https://www.dropbox.com/s/0cf90u80drwiolh/Thank%20you%20for%20your%20assistance%20in%20this%20time-sensitive%20matter.zip?dl=0 
 
-## Beaker: dat://epa.hashbase.io
+## Peer-to-peer: dat://epa.hashbase.io (Beaker Browser)
 
-## Beaker (raw): dat://c12bfbe8c2decad66de41421c5ec1aa6aadba205420c1e3a61d14b719da3dcfa/
+## Peer-to-peer (raw): dat://c12bfbe8c2decad66de41421c5ec1aa6aadba205420c1e3a61d14b719da3dcfa/ (Beaker Browser)
 
 Site development: Lukas Eigler-Harding

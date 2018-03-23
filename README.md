@@ -5,8 +5,7 @@ This project — a broadcast, a book, and a download — restores access to 1,
 
 The April 28 purge redirected hundreds of removed web pages to one of three new pages: ["This page is being updated"](https://www.epa.gov/sites/production/files/signpost/cc.html), ["Complying with President Trump's Executive Order on Energy Independence"](https://www.epa.gov/energy-independence), or the newly scrubbed ["Energy Resources for State, Local, and Tribal Governments"](https://www.epa.gov/statelocalenergy#). Many document files (PDFs, PPTs, mp3s, docs) survived the purge and continued to live online, but remained hidden from public view without their corresponding links — until now. "Steve, Harvey and Matt," broadcasts the entire collection of climate change URLs ten times each day — a mix of restored access and empty gestures. The 734-page printed book contains EPA emails and spreadsheets that detail the purge, obtained by Freedom of Information Act requests.
 
-## **Livestream** 
-### http://epa.archive.work
+## Livestream: http://epa.archive.work
 
 ## **Printed book** http://www.lulu.com/shop/paul-soulellis/steve-harvey-and-matt/paperback/product-23572374.html
 

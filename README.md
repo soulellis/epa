@@ -7,16 +7,10 @@ The April 28 purge redirected hundreds of removed web page URLs to one of three 
 Project by Paul Soulellis. Site development by Lukas Eigler-Harding.
 
 
-## [Livestream](http://epa.archive.work)
+## [Livestream](http://epa.archive.work) (web)
+
+## Livestream (dat): dat://c12bfbe8c2decad66de41421c5ec1aa6aadba205420c1e3a61d14b719da3dcfa/ or dat://epa.hashbase.io
 
 ## [Printed book](http://www.lulu.com/shop/paul-soulellis/steve-harvey-and-matt/paperback/product-23572374.html)
 
 ## [ZIP Download (emails, spreadsheets, notes)](https://www.dropbox.com/s/0cf90u80drwiolh/Thank%20you%20for%20your%20assistance%20in%20this%20time-sensitive%20matter.zip?dl=0) 
-
-
-### Peer-to-peer distributed livestream [(Beaker Browser)](https://beakerbrowser.com/): 
-
-dat://epa.hashbase.io 
-
-dat://c12bfbe8c2decad66de41421c5ec1aa6aadba205420c1e3a61d14b719da3dcfa/
-

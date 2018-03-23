@@ -11,7 +11,7 @@ Project by Paul Soulellis. Site development by Lukas Eigler-Harding.
 
 ## Livestream (dat): 
 
-dat://c12bfbe8c2decad66de41421c5ec1aa6aadba205420c1e3a61d14b719da3dcfa/ 
+dat://87b5ab52efcecfaba5f69a7b13562696289db7b06440ba9433e07fb20f24af93/ 
 
 dat://epa.hashbase.io
 

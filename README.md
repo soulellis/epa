@@ -16,6 +16,6 @@ dat://epa.hashbase.io
 
 dat://c12bfbe8c2decad66de41421c5ec1aa6aadba205420c1e3a61d14b719da3dcfa/
 
-### Project: Paul Soulellis
+#### Project: Paul Soulellis
 
-### Site development: Lukas Eigler-Harding
+#### Site development: Lukas Eigler-Harding

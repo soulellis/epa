@@ -12,3 +12,5 @@ Download (emails, spreadsheets, notes): https://www.dropbox.com/s/0cf90u80drwiol
 Beaker: dat://epa.hashbase.io
 
 Beaker (raw): dat://c12bfbe8c2decad66de41421c5ec1aa6aadba205420c1e3a61d14b719da3dcfa/
+
+Site development by Lukas Eigler-Harding.

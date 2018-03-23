@@ -1,4 +1,4 @@
-# “Steve, Harvey and Matt,” (2018)
+# *Steve, Harvey and Matt,* (2018)
 
 This project — a broadcast, a book, and a download — restores access to 1,964 climate change-related assets that were removed from [EPA.gov](http://www.epa.gov) on April 28, 2017. The assets include web pages, documents, presentations, publications, and other files that were [purged](https://www.washingtonpost.com/news/energy-environment/wp/2017/04/28/epa-website-removes-climate-science-site-from-public-view-after-two-decades/?utm_term=.da4068a9c17b) by the U.S. Environmental Protection Agency under the direction of EPA Administrator Scott Pruitt and the Trump administration. Some of the assets had been accessible to the public on the web since 1997. 
 

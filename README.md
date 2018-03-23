@@ -9,7 +9,11 @@ Project by Paul Soulellis. Site development by Lukas Eigler-Harding.
 
 ## [Livestream](http://epa.archive.work) (web)
 
-## Livestream (dat): dat://c12bfbe8c2decad66de41421c5ec1aa6aadba205420c1e3a61d14b719da3dcfa/ or dat://epa.hashbase.io
+## Livestream (dat): 
+
+dat://c12bfbe8c2decad66de41421c5ec1aa6aadba205420c1e3a61d14b719da3dcfa/ 
+
+dat://epa.hashbase.io
 
 ## [Printed book](http://www.lulu.com/shop/paul-soulellis/steve-harvey-and-matt/paperback/product-23572374.html)
 

@@ -21,6 +21,6 @@ dat://epa.hashbase.io
 
 http://www.lulu.com/shop/paul-soulellis/steve-harvey-and-matt/paperback/product-23572374.html
 
-## [ZIP Download (emails, spreadsheets, code, notes)](https://www.dropbox.com/s/32bvzuc8cqn5pr1/Thank%20you%20for%20your%20assistance%20in%20this%20time-sensitive%20matter.zip?dl=0) 
+## [ZIP Download (emails, spreadsheets, code, notes)](https://www.dropbox.com/s/32bvzuc8cqn5pr1/We%20appreciate%20your%20assistance%20in%20this%20time-sensitive%20matter.zip?dl=0) 
 
-https://www.dropbox.com/s/32bvzuc8cqn5pr1/Thank%20you%20for%20your%20assistance%20in%20this%20time-sensitive%20matter.zip?dl=0
+https://www.dropbox.com/s/32bvzuc8cqn5pr1/We%20appreciate%20your%20assistance%20in%20this%20time-sensitive%20matter.zip?dl=0

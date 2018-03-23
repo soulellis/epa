@@ -7,12 +7,12 @@ The April 28 purge redirected hundreds of removed web pages to one of three new 
 
 ## Livestream: http://epa.archive.work
 
-## **Printed book** http://www.lulu.com/shop/paul-soulellis/steve-harvey-and-matt/paperback/product-23572374.html
+## Printed book: http://www.lulu.com/shop/paul-soulellis/steve-harvey-and-matt/paperback/product-23572374.html
 
-## **Download** (emails, spreadsheets, notes) https://www.dropbox.com/s/0cf90u80drwiolh/Thank%20you%20for%20your%20assistance%20in%20this%20time-sensitive%20matter.zip?dl=0 
+## Download: (emails, spreadsheets, notes) https://www.dropbox.com/s/0cf90u80drwiolh/Thank%20you%20for%20your%20assistance%20in%20this%20time-sensitive%20matter.zip?dl=0 
 
-## **Beaker** dat://epa.hashbase.io
+## Beaker: dat://epa.hashbase.io
 
-## **Beaker (raw)** dat://c12bfbe8c2decad66de41421c5ec1aa6aadba205420c1e3a61d14b719da3dcfa/
+## Beaker (raw): dat://c12bfbe8c2decad66de41421c5ec1aa6aadba205420c1e3a61d14b719da3dcfa/
 
 Site development: Lukas Eigler-Harding

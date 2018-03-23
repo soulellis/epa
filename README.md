@@ -1,5 +1,5 @@
 # epa
-"Steve, Harvey and Matt," (2018)
+"Steve, Harvey and Matt," (2018) by Paul Soulellis
 
 This project — a broadcast, a book, and a download — restores access to 1,964 climate change-related assets that were removed from EPA.gov on April 28, 2017. The assets include web pages, documents, presentations, publications, and other files that were purged by the U.S. Environmental Protection Agency under the direction of EPA Administrator Scott Pruitt and the Trump administration. Some of the assets had been accessible to the public on the web since 1997. 
 
@@ -15,6 +15,4 @@ The April 28 purge redirected hundreds of removed web pages to one of three new 
 
 **Beaker (raw)** dat://c12bfbe8c2decad66de41421c5ec1aa6aadba205420c1e3a61d14b719da3dcfa/
 
-Project: Paul Soulellis
-
-Site development: Lukas Eigler-Harding
+*Site development* Lukas Eigler-Harding

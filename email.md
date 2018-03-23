@@ -2,9 +2,9 @@ From: Freire, JP
 
 Sent: Friday, April 28, 2017 5:51 PM
 
-To: Fine, Steven <fine.steven@epa.gov>; Simon, Harvey <Simon.Harvey@epa.gov>; Leopard, Matthew <Leopard, Matthew@epa.gov>
+To: Fine, Steven fine.steven@epa.gov; Simon, Harvey Simon.Harvey@epa.gov; Leopard, Matthew Leopard, Matthew@epa.gov
 
-Cc: Grantham, Nancy <Grantham.Nancy@epa.gov>
+Cc: Grantham, Nancy Grantham.Nancy@epa.gov
 
 Subject: Request for time-sensitive website assitance
 

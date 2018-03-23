@@ -9,18 +9,17 @@ Project by Paul Soulellis. Site development by Lukas Eigler-Harding.
 
 ## [Livestream](http://epa.archive.work) (web)
 
-http://epa.archive.work
+* http://epa.archive.work
 
 ## Livestream (dat)
 
-dat://87b5ab52efcecfaba5f69a7b13562696289db7b06440ba9433e07fb20f24af93/ 
-
-dat://epa.hashbase.io
+* dat://87b5ab52efcecfaba5f69a7b13562696289db7b06440ba9433e07fb20f24af93/ 
+* dat://epa.hashbase.io
 
 ## [Printed book](http://www.lulu.com/shop/paul-soulellis/steve-harvey-and-matt/paperback/product-23572374.html)
 
-http://www.lulu.com/shop/paul-soulellis/steve-harvey-and-matt/paperback/product-23572374.html
+* http://www.lulu.com/shop/paul-soulellis/steve-harvey-and-matt/paperback/product-23572374.html
 
 ## [ZIP Download (emails, spreadsheets, code, notes)](https://www.dropbox.com/s/32bvzuc8cqn5pr1/We%20appreciate%20your%20assistance%20in%20this%20time-sensitive%20matter.zip?dl=0) 
 
-https://www.dropbox.com/s/32bvzuc8cqn5pr1/We%20appreciate%20your%20assistance%20in%20this%20time-sensitive%20matter.zip?dl=0
+* https://www.dropbox.com/s/32bvzuc8cqn5pr1/We%20appreciate%20your%20assistance%20in%20this%20time-sensitive%20matter.zip?dl=0
